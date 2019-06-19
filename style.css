@@ -21,6 +21,7 @@ button:hover {
 }
 
 #tekst {
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   -webkit-text-stroke: 0.5px rgb(200, 200, 200);
   color: white;
